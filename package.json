@@ -1,0 +1,15 @@
+{
+  "name": "javascriptcalculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "LawrenceMbugua",
+  "license": "ISC",
+  "homepage": "https://LawrenceMbugua.github.io/javascriptcalculator",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
